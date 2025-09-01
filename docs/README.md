@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/iancostag">
-        <img src="https://github.com/iancostag.png" width="120" style="border-radius: 50%;" alt="Ian Costa"/>
+        <img src="https://github.com/iancostag.png" width="130" style="border-radius: 50%;" alt="Ian Costa"/>
         <br/><sub><b>Ian Costa - 222014859</b></sub>
       </a>
     </td>
@@ -46,7 +46,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Erick-ems">
-        <img src="https://github.com/Erick-ems.png" width="120" style="border-radius: 50%;" alt="Erick Miranda"/>
+        <img src="https://github.com/Erick-ems.png" width="130" style="border-radius: 50%;" alt="Erick Miranda"/>
         <br/><sub><b>Erick Miranda - 211061672</b></sub>
       </a>
     </td>
