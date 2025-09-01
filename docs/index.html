@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
@@ -7,17 +8,149 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="icon" href="./cuida_de_mim.ico" type="image/x-icon">
+
+  <style>
+    body,
+    .app-nav,
+    .sidebar,
+    .sidebar-toggle,
+    .content {
+      background-color: #fdfdfd;
+      color: #242424;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    /* Links */
+    a {
+      color: #f5a926;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    a:hover {
+      color: #d98a10;
+      text-decoration: underline;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      background-color: #f5f5f5;
+      /* cinza claro para dar contraste com a logo */
+      border-right: 1px solid #e0e0e0;
+    }
+
+    .sidebar ul li a {
+      color: #242424;
+    }
+
+    .sidebar ul li.active>a {
+      color: #f5a926;
+      font-weight: bold;
+    }
+
+    .sidebar a:hover {
+      color: #f5a926;
+    }
+
+
+    /* Cabeçalhos */
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3 {
+      color: #242424;
+      border-left: 5px solid #f5a926;
+      padding-left: 8px;
+    }
+
+    /* Código */
+    .markdown-section code {
+      background-color: #f7f7f7;
+      color: #242424;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+
+    /* Seleção de texto */
+    ::selection {
+      background: #f5a926;
+      color: #fff;
+    }
+
+    /* Cor do tema */
+    :root {
+      --theme-color: #f5a926 !important;
+    }
+
+    /* Tabelas */
+    table {
+      border-collapse: separate;
+      border-spacing: 0;
+      border-radius: 8px;
+      overflow: hidden;
+      background-color: #ffffff;
+      color: #242424;
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 14px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+    }
+
+    th {
+      background-color: #f5a926;
+      color: #fff;
+      font-weight: bold;
+      text-align: left;
+      padding: 12px 16px;
+    }
+
+    td {
+      background-color: #fff;
+      padding: 12px 16px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    .markdown-section table {
+      width: fit-content !important;
+      max-width: 100%;
+      table-layout: auto;
+    }
+
+    .markdown-section td:first-child,
+    .markdown-section th:first-child {
+      white-space: nowrap;
+    }
+
+    .markdown-section td,
+    .markdown-section th {
+      word-break: break-word;
+    }
+  </style>
+
 </head>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
-      name: 'Repositorio Template',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/RepositorioTemplateEntrega1'
+      name: 'CuidaDeMim',
+      repo: 'https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G4_CuidaDeMim_Entrega_01',
+      logo: 'cuida_de_mim.png',
+      tabs: {
+        persist: true,
+        sync: true,
+        theme: 'classic',
+        tabComments: true,
+        tabHeadings: true
+      }
     }
   </script>
-  <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
+
 </html>
