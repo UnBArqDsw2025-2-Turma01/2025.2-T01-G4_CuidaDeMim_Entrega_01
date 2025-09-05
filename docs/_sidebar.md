@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Projetos](/Projeto/Projeto.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
@@ -14,6 +13,8 @@
        - [1.1.3. Storyboard](Base/1.1.3.Storyboard.md)
       **Prototype**
        - [1.1.4. Protótipo](Base/1.1.4.prototipo.md)
+      **Validação**
+       - [1.1.5. Validação](Base/1.1.5Validacao.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
@@ -26,3 +27,5 @@
 - **Atas de Reunião**
   - [Ata - 01](/Base/Ata01.md)
   - [Ata - 02](/Base/Ata02.md)
+  - [Ata - Validação](/Base/ata_prototipo_validacao.md)
+
