@@ -19,3 +19,5 @@
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
        - [1.4.1. Evidências Rich Picture](Base/1.4.1.evidencias_rich_picture.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
+      - [1.5.1. Heatmap de disponibilidade](/Base/1.5.1.Heatmap.md)
+      - [1.5.2. Ferramentas Utilizadas](/Base/1.5.2.FerramentasUtilizadas.md)
