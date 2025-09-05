@@ -22,3 +22,7 @@
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Heatmap de disponibilidade](/Base/1.5.1.Heatmap.md)
       - [1.5.2. Ferramentas Utilizadas](/Base/1.5.2.FerramentasUtilizadas.md)
+
+- **Atas de Reunião**
+  - [Ata - 01](/Base/Ata01.md)
+  - [Ata - 02](/Base/Ata02.md)
