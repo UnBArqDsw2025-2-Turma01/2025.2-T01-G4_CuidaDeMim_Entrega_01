@@ -6,6 +6,13 @@
 - **Término:** 1:21
 - **Local:** Reunião Online (Gravação)
 
+## Gravação da Reunião
+
+<video width="640" controls>
+  <source src="assets/validacao.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
 ## Pautas da Reunião
 - Apresentação do protótipo do site de adoção "Cuida de Mim"
 - Demonstração do fluxo de navegação: tela inicial, catálogo de animais, perfil do pet e chat para adoção
