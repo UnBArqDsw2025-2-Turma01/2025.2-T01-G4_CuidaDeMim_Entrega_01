@@ -4,7 +4,19 @@
 - **Data:** 02/09/2025  
 - **Início:** 21:00  
 - **Término:** 22:30  
-- **Local:** Discord  
+- **Local:** Discord 
+
+## Gravação da Reunião
+
+<iframe 
+  src="https://unbbr.sharepoint.com/sites/ArqDSW-G4/_layouts/15/embed.aspx?UniqueId=fe517274-9e32-4350-bf18-a05b92ffd616&embed=%7B%22ust%22%3Afalse%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" 
+  width="640" 
+  height="360" 
+  frameborder="0" 
+  scrolling="no" 
+  allowfullscreen>
+</iframe>
+
 
 ## Pautas da Reunião
 - Discussão dos post-its colados no Miro  
